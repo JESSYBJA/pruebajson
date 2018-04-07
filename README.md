@@ -1,6 +1,6 @@
-# proyecto bus de datos
+# prueba json
 
-este un proyecto de bus de datos
+este un proyecto de json 
 
 # colaboradores
 
